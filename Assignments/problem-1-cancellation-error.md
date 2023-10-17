@@ -1,17 +1,18 @@
 # Problem 1: Cancellation Error
 
-**Objective**: This program accepts an input X value and computes a Y value
+**OBJECTIVE**: This program accepts an input X value and computes a Y value
 according to the formula:
 
 ```
-    Y = 1
-        -----------------
+    Y =        1
+        ───────────────
           1 - (X - 1)
-              -------
+              ───────
                  X
 ```
-          The % error between the X and Y values is computed,
-          The input X, output Y and % error are printed as output.
+The % error between the X and Y values is computed.
+
+The input X, output Y, and % error are printed as output.
 
 ## SAMPLE PROGRAM:
 
@@ -58,8 +59,8 @@ mathematically equal, is due to the fact that (x-1)/x cannot always be
 represented in binary form with perfect accuracy: e.g. 8/9 will have a
 round off error. This error is compounded by further calculations,
 particularly the subtraction which is the next step in evaluating the
-formula. This discrepancy is an illustration of cancellation error- caused
-by the subtraction of two numbers roughly equal in magnitude.
+formula. This discrepancy is an illustration of cancellation error -
+caused by the subtraction of two numbers roughly equal in magnitude.
 
 The cancellation error can be very severe when the two numbers are
 very close to one another. In this example program the proximity to (x-1)/x
