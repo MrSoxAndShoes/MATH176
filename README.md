@@ -2,14 +2,14 @@
 
 ## Assignments
 
-* [Problem 1 - Cancellation Error](assignments/problem-1-cancellation-error.md)
-* [Problem 2 - Accumulation Error](assignments/problem-2-accumulation-error.md)
-* [Problem 3 - Rectangle-square perimeter](assignments/problem-3-rectangle-square-perimeter.md)
-* [Problem 4 - Rocket](assignments/problem-4-rocket.md)
-* [Problem 5 - Temperature Measurements](assignments/problem-5-temperature-measurements.md)
-* [Problem 6 - Rocket Height](assignments/problem-6-rocket-height.md)
-* [Problem 7 - Arrays](assignments/problem-7-arrays.md)
-* [Problem 8 - Subroutines](assignments/problem-8-subroutines.md)
+* [Problem 1 - Cancellation Error](Assignments/problem-1-cancellation-error.md)
+* [Problem 2 - Accumulation Error](Assignments/problem-2-accumulation-error.md)
+* [Problem 3 - Rectangle-square perimeter](Assignments/problem-3-rectangle-square-perimeter.md)
+* [Problem 4 - Rocket](Assignments/problem-4-rocket.md)
+* [Problem 5 - Temperature Measurements](Assignments/problem-5-temperature-measurements.md)
+* [Problem 6 - Rocket Height](Assignments/problem-6-rocket-height.md)
+* [Problem 7 - Arrays](Assignments/problem-7-arrays.md)
+* [Problem 8 - Subroutines](Assignments/problem-8-subroutines.md)
 
 ## Reference Texts
 
