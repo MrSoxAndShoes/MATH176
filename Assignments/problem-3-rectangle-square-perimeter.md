@@ -23,7 +23,7 @@ as to whether or not it is a square.
                   This rectangle is/is not/ a square.
 ```
 
-**General information**: The successful completion of this program will require
+**GENERAL INFORMATION**: The successful completion of this program will require
 the use of the following ideas/statements:
 
 
